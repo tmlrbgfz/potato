@@ -1,15 +1,15 @@
 pkgbase = potato
 	pkgdesc = A pomodoro timer for the shell
-	pkgver = 1
+	pkgver = 3
 	pkgrel = 1
 	url = https://github.com/Bladtman242/potato
 	arch = any
 	license = MIT
-	depends = alsa-utils
+	optdepends = alsa-utils sox
 	provides = potato
 	source = potato.sh
 	source = LICENSE
-	md5sums = 811b5b065dd364fb8819182255f14151
+	md5sums = fe65a89eb140dedcae981a8d92be4f7e
 	md5sums = 1ddcbd2862764b43d75fb1e484bf8912
 
 pkgname = potato

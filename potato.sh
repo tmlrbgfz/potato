@@ -31,7 +31,7 @@ show_help() {
 		    -m: mute -- don't play sounds when work/break is over
 		    -w m: let work periods last m minutes (default is 25)
 		    -b m: let break periods last m minutes (default is 5)
-            -a path: try to play file with aplay or sox, if installed and work/pause is over
+		    -a path: try to play file with aplay or sox, if installed and work/pause is over
 		    -h: print this message
 	END
 }
