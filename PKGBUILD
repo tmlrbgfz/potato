@@ -7,13 +7,13 @@ arch=('any')
 url="https://github.com/Bladtman242/potato"
 license=('MIT')
 groups=()
-depends=('alsa-utils')
+optdepends=('alsa-utils' 'sox')
 provides=('potato')
 install=
 changelog=
 source=(potato.sh LICENSE)
 noextract=()
-md5sums=('e6bfd8b6eb2717bace7a865898a93c07'
+md5sums=('811b5b065dd364fb8819182255f14151'
          '1ddcbd2862764b43d75fb1e484bf8912')
 
 package() {

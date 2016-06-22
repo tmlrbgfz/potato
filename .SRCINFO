@@ -9,7 +9,7 @@ pkgbase = potato
 	provides = potato
 	source = potato.sh
 	source = LICENSE
-	md5sums = e6bfd8b6eb2717bace7a865898a93c07
+	md5sums = 811b5b065dd364fb8819182255f14151
 	md5sums = 1ddcbd2862764b43d75fb1e484bf8912
 
 pkgname = potato
